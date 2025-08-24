@@ -1,7 +1,6 @@
 ## 🎓 About Me
 - **Software Engineering Student** @ University of Novi Sad, Serbia  
 - Passionate about **system design**, **algorithms**, and solving **tricky problems**  
-- Love building **robust backend systems** and exploring **AI concepts**
 
 ---
 
@@ -11,7 +10,8 @@
 A database engine built from scratch:  
 - **Data Structures:** B+ Trees, LSM Trees, Bloom Filters  
 - **Features:** Crash Recovery, Compaction, SSTable Management  
-- **Query Capabilities:** Prefix Iteration,  Range Queries  
+- **Query Capabilities:** Prefix Iteration, Range Queries  
+
 ---
 
 ### 🐍 [Graph Coverage AI](https://github.com/IgorAmi52/Graph-Coverage) — *Python*  
@@ -46,5 +46,12 @@ Clustering scientific publications & datasets:
 ---
 
 ## 💬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-amidzic-490b45212/)  
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorami44@gmail.com)
+<div >
+  <a href="https://www.linkedin.com/in/igor-amidzic-490b45212/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:igorami44@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
+  </a>
+</div>
