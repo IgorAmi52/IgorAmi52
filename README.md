@@ -14,7 +14,7 @@ A database engine built from scratch:
 
 ---
 
-### 🐍 [Graph Coverage AI](https://github.com/IgorAmi52/Graph-Coverage) — *Python*  
+### 🐍 [Graph Coverage AI](https://github.com/IgorAmi52/Blind-Snake-Problem) — *Python*  
 JetBrains Challenge: Blind Snake Pathfinding  
 - Unknown Map Exploration  
 - Optimal Strategy Under Uncertainty  
